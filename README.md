@@ -8,7 +8,7 @@ The ubiquitousness of smartphones enables people to announce an emergency they�
 
 But, it’s not always clear whether a person’s words are actually announcing a disaster.
 
-## COMPETITION-SPECIFIC TERMS
+## Competition-Specific Terms
 
 **COMPETITION TITLE:** Natural Language Processing with Disaster Tweets
 
