@@ -1,6 +1,6 @@
 # Natural-Language-Processing-with-Disaster-Tweets
-#### Predict which Tweets are about real disasters and which ones are not
-
+**Predict which Tweets are about real disasters and which ones are not
+**
 ## Competition Description
 
 Twitter has become an important communication channel in times of emergency.
@@ -13,8 +13,6 @@ But, it’s not always clear whether a person’s words are actually announcing 
 **COMPETITION TITLE:** Natural Language Processing with Disaster Tweets
 
 **COMPETITION SPONSOR:** Kaggle
-
-**COMPETITION SPONSOR ADDRESS:** 1600 Amphitheatre Pkwy, Mountain View, CA 94043
 
 **COMPETITION WEBSITE:** https://www.kaggle.com/c/nlp-getting-started
 
