@@ -17,3 +17,23 @@ But, it’s not always clear whether a person’s words are actually announcing 
 **COMPETITION WEBSITE:** https://www.kaggle.com/c/nlp-getting-started
 
 **DATA ACCESS AND USE:** Competition Use and Academic, Non-Commercial Use Only
+
+## Data Preprocessing
+
+- Remove HTML tags/ Http tags/ punctuation/ Digits
+- Tokenizing
+- Lemmatizing & Stemming
+- Correcting
+
+## Creating Model
+
+- Using BERT Tokenizer
+- Using Glove Embedding
+- Using Multi-Head Attention
+- Using Deep Learning Techniques for Text Classification
+
+
+## Evaluation
+
+- Submissions are evaluated using F1 between the predicted and expected answers.
+
