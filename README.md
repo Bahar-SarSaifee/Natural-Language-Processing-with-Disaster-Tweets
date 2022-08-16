@@ -25,12 +25,12 @@ But, it’s not always clear whether a person’s words are actually announcing 
 - Lemmatizing & Stemming
 - Correcting
 
-## Creating Model
+## Creating the Model
 
-- Using BERT Tokenizer
-- Using Glove Embedding
+- Tokenization Using BERT Tokenizer
+- Using Pre-trained Glove Embedding
 - Using Multi-Head Attention
-- Using Deep Learning Techniques for Text Classification
+- A Hybrid Model Based on Attention Mechanism and Deep Learning Techniques
 
 
 ## Evaluation
