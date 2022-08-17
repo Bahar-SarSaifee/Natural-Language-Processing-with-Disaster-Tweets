@@ -18,6 +18,10 @@ But, it’s not always clear whether a person’s words are actually announcing 
 
 **DATA ACCESS AND USE:** Competition Use and Academic, Non-Commercial Use Only
 
+## Dataset
+
+LINK: https://www.kaggle.com/competitions/nlp-getting-started/data
+
 ## Data Preprocessing
 
 - Remove HTML tags/ Http tags/ punctuation/ Digits
